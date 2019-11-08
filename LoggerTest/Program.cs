@@ -19,7 +19,7 @@ namespace LoggerTest
 
             logger.Info(args[0]);
 
-            //logger.Info("OK");
+            logger.Info("OK");
 
             string fecha = "05/11/2019";
             DateTime parsedDate;

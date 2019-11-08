@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\LoggerTest\\LoggerTest\\LoggerTest.csproj": {}
+    "C:\\Users\\pablo\\Documents\\consoleTest\\LoggerTest\\LoggerTest.csproj": {}
   },
   "projects": {
-    "C:\\dev\\LoggerTest\\LoggerTest\\LoggerTest.csproj": {
+    "C:\\Users\\pablo\\Documents\\consoleTest\\LoggerTest\\LoggerTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\LoggerTest\\LoggerTest\\LoggerTest.csproj",
+        "projectUniqueName": "C:\\Users\\pablo\\Documents\\consoleTest\\LoggerTest\\LoggerTest.csproj",
         "projectName": "LoggerTest",
-        "projectPath": "C:\\dev\\LoggerTest\\LoggerTest\\LoggerTest.csproj",
+        "projectPath": "C:\\Users\\pablo\\Documents\\consoleTest\\LoggerTest\\LoggerTest.csproj",
         "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\LoggerTest\\LoggerTest\\obj\\",
+        "outputPath": "C:\\Users\\pablo\\Documents\\consoleTest\\LoggerTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -12,3 +12,17 @@ C:\dev\LoggerTest\LoggerTest\bin\Debug\netcoreapp3.0\log4net.dll
 C:\dev\LoggerTest\LoggerTest\obj\Debug\netcoreapp3.0\LoggerTest.csproj.CopyComplete
 C:\dev\LoggerTest\LoggerTest\obj\Debug\netcoreapp3.0\LoggerTest.dll
 C:\dev\LoggerTest\LoggerTest\obj\Debug\netcoreapp3.0\LoggerTest.pdb
+C:\Users\pablo\Documents\consoleTest\LoggerTest\bin\Debug\netcoreapp3.0\LoggerTest.exe
+C:\Users\pablo\Documents\consoleTest\LoggerTest\bin\Debug\netcoreapp3.0\log4net.config
+C:\Users\pablo\Documents\consoleTest\LoggerTest\bin\Debug\netcoreapp3.0\LoggerTest.deps.json
+C:\Users\pablo\Documents\consoleTest\LoggerTest\bin\Debug\netcoreapp3.0\LoggerTest.runtimeconfig.json
+C:\Users\pablo\Documents\consoleTest\LoggerTest\bin\Debug\netcoreapp3.0\LoggerTest.runtimeconfig.dev.json
+C:\Users\pablo\Documents\consoleTest\LoggerTest\bin\Debug\netcoreapp3.0\LoggerTest.dll
+C:\Users\pablo\Documents\consoleTest\LoggerTest\bin\Debug\netcoreapp3.0\LoggerTest.pdb
+C:\Users\pablo\Documents\consoleTest\LoggerTest\bin\Debug\netcoreapp3.0\log4net.dll
+C:\Users\pablo\Documents\consoleTest\LoggerTest\obj\Debug\netcoreapp3.0\LoggerTest.csprojAssemblyReference.cache
+C:\Users\pablo\Documents\consoleTest\LoggerTest\obj\Debug\netcoreapp3.0\LoggerTest.AssemblyInfoInputs.cache
+C:\Users\pablo\Documents\consoleTest\LoggerTest\obj\Debug\netcoreapp3.0\LoggerTest.AssemblyInfo.cs
+C:\Users\pablo\Documents\consoleTest\LoggerTest\obj\Debug\netcoreapp3.0\LoggerTest.csproj.CopyComplete
+C:\Users\pablo\Documents\consoleTest\LoggerTest\obj\Debug\netcoreapp3.0\LoggerTest.dll
+C:\Users\pablo\Documents\consoleTest\LoggerTest\obj\Debug\netcoreapp3.0\LoggerTest.pdb
