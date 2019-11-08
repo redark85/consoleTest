@@ -1,0 +1,14 @@
+C:\dev\LoggerTest\LoggerTest\bin\Debug\netcoreapp3.0\LoggerTest.exe
+C:\dev\LoggerTest\LoggerTest\obj\Debug\netcoreapp3.0\LoggerTest.csprojAssemblyReference.cache
+C:\dev\LoggerTest\LoggerTest\obj\Debug\netcoreapp3.0\LoggerTest.AssemblyInfoInputs.cache
+C:\dev\LoggerTest\LoggerTest\obj\Debug\netcoreapp3.0\LoggerTest.AssemblyInfo.cs
+C:\dev\LoggerTest\LoggerTest\bin\Debug\netcoreapp3.0\log4net.config
+C:\dev\LoggerTest\LoggerTest\bin\Debug\netcoreapp3.0\LoggerTest.deps.json
+C:\dev\LoggerTest\LoggerTest\bin\Debug\netcoreapp3.0\LoggerTest.runtimeconfig.json
+C:\dev\LoggerTest\LoggerTest\bin\Debug\netcoreapp3.0\LoggerTest.runtimeconfig.dev.json
+C:\dev\LoggerTest\LoggerTest\bin\Debug\netcoreapp3.0\LoggerTest.dll
+C:\dev\LoggerTest\LoggerTest\bin\Debug\netcoreapp3.0\LoggerTest.pdb
+C:\dev\LoggerTest\LoggerTest\bin\Debug\netcoreapp3.0\log4net.dll
+C:\dev\LoggerTest\LoggerTest\obj\Debug\netcoreapp3.0\LoggerTest.csproj.CopyComplete
+C:\dev\LoggerTest\LoggerTest\obj\Debug\netcoreapp3.0\LoggerTest.dll
+C:\dev\LoggerTest\LoggerTest\obj\Debug\netcoreapp3.0\LoggerTest.pdb

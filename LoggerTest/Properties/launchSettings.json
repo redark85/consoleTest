@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "LoggerTest": {
+      "commandName": "Project",
+      "commandLineArgs": "appName appURL",
+      "nativeDebugging": false
+    }
+  }
+}
